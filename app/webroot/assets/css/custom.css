@@ -1,0 +1,68 @@
+.txttam01{
+    font-size: 20px !important;
+}
+
+.txttam02{
+    font-size: 18px !important;
+}
+
+.logoajust{
+    margin-top: -30px;
+}
+
+.logoajustmn{
+    margin-top: 7px;
+    width: 65px;
+}
+
+.engross{
+    font-weight: 600 !important;
+}
+
+.tthin{
+    font-weight: 200 !important;
+}
+
+.novacor{
+    background: #C9A825 !important;
+}
+
+.newheader{
+    height: auto;
+}
+
+.imgmais{
+    width: 30px;
+    height: 30px;
+}
+
+.imgmaismod{
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.direita{
+    text-align: right !important;
+}
+
+.ajusttit{
+    margin-top: -20px;
+}
+
+.centralizar{
+    text-align: center !important;
+}
+
+.hmdajust{
+  vertical-align: middle !important;
+}
+
+@media screen and (max-width: 736px) {
+    .logoajustmn{
+        margin-top: 2px;
+        width: 52px;
+    }
+    .direita{
+        text-align: left !important;
+    }
+}
